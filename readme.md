@@ -1,3 +1,7 @@
+**欢迎大家一起讨论学习，加我备注"JAVA"拉你进入技术讨论群，在技术学习、成长、工作的路上不迷路！加我后不要急，每天下午6点左右通过！营销号免入**
+
+![](https://gitee.com/itbeien/base/raw/master/images/贝恩聊架构Java技术群.png)
+
 ## 1 微服务专栏
 
 [01跟着我学微服务，什么是微服务？微服务有哪些主流解决方案？](https://www.itbeien.cn/tech/microservice/01%E8%B7%9F%E7%9D%80%E6%88%91%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BB%E6%B5%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9F.html)
