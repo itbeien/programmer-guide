@@ -11,8 +11,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Copyright© 2024 itbeien
  */
 @SpringBootApplication
-public class SpringSecurityBoot {
+public class SimpleBoot {
     public static void main(String[] args) {
-        SpringApplication.run(SpringSecurityBoot.class,args);
+        SpringApplication.run(SimpleBoot.class,args);
     }
 }

@@ -10,6 +10,12 @@
     </parent>
 
     <artifactId>springboot-springsecurity</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>springsecurity-simple</module>
+        <module>springsecurity-memory</module>
+        <module>springsecurity-mysql8.4.3</module>
+    </modules>
 
     <dependencies>
         <dependency>
