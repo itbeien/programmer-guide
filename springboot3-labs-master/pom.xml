@@ -31,6 +31,7 @@
         <module>springboot-kafka</module>
         <module>springboot-rabbitmq</module>
         <module>springboot-activemq</module>
+        <module>springboot-springsecurity</module>
     </modules>
 
     <properties>
@@ -41,7 +42,7 @@
         <lombok-version>1.18.34</lombok-version>
         <mybatis-plus-spring-boot3-starter-version>3.5.9</mybatis-plus-spring-boot3-starter-version>
         <mysql-connector-java-version>5.1.49</mysql-connector-java-version>
-        <spring-boot-dependencies-version>3.4.0</spring-boot-dependencies-version>
+        <spring-boot-dependencies-version>3.4.1</spring-boot-dependencies-version>
         <mybatis-spring-boot-version>3.0.3</mybatis-spring-boot-version>
         <mapstruct-verrsion>1.5.5.Final</mapstruct-verrsion>
         <mapstruct-processor-version>1.5.5.Final</mapstruct-processor-version>
