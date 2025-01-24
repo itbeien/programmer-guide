@@ -48,6 +48,8 @@
 
 [12SpringBoot3.4.1和Spring Security6.4.2实现基于内存和MySQL的用户认证](https://itbeien.cn/tech/SpringBoot3/12SpringBoot3.4.1%E5%92%8CSpring%20Security6.4.2%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%86%85%E5%AD%98%E5%92%8CMySQL%E7%9A%84%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81.html)
 
+[13SpringBoot3.4.1和Spring Security6.4.2结合OAuth2实现GitHub授权登录](https://itbeien.cn/tech/SpringBoot3/13SpringBoot3.4.1%E5%92%8CSpring%20Security6.4.2%E7%BB%93%E5%90%88OAuth2%E5%AE%9E%E7%8E%B0GitHub%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95.html)
+
 ## 3 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
