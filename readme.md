@@ -50,6 +50,8 @@
 
 [13SpringBoot3.4.1和Spring Security6.4.2结合OAuth2实现GitHub授权登录](https://itbeien.cn/tech/SpringBoot3/13SpringBoot3.4.1%E5%92%8CSpring%20Security6.4.2%E7%BB%93%E5%90%88OAuth2%E5%AE%9E%E7%8E%B0GitHub%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95.html)
 
+[14SpringBoot3.4.1和Spring Security6.4.2结合JWT实现用户登录](https://itbeien.cn/tech/SpringBoot3/14SpringBoot3.4.1%E5%92%8CSpring%20Security6.4.2%E7%BB%93%E5%90%88JWT%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.html)
+
 ## 3 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
