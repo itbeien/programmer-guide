@@ -9,12 +9,21 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <properties>
+        <mysql-connector-java-version>8.0.33</mysql-connector-java-version>
+        <jjwt.version>0.9.1</jjwt.version>
+    </properties>
+
     <artifactId>springboot-springsecurity</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>springsecurity-simple</module>
         <module>springsecurity-memory</module>
         <module>springsecurity-mysql8.4.3</module>
+        <module>springsecurity-encoder</module>
+        <module>springsecurity-oauth2</module>
+        <module>springsecurity-oauth2/springsecurity-oauth2-github</module>
+        <module>springsecurity-jwt</module>
     </modules>
 
     <dependencies>
