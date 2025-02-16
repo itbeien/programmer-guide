@@ -14,6 +14,8 @@
 
 [05SpringAI实现上下文对话-基于DeepSeek](https://itbeien.cn/AI/tech/05SpringAI%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%B8%8B%E6%96%87%E5%AF%B9%E8%AF%9D-%E5%9F%BA%E4%BA%8EDeepSeek.html)
 
+[06SpringAI实现角色扮演(自定义人设)和Prompts模板语法-基于DeepSeek](https://itbeien.cn/AI/tech/06SpringAI%E5%AE%9E%E7%8E%B0%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94(%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%BA%E8%AE%BE)%E5%92%8CPrompts%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95-%E5%9F%BA%E4%BA%8EDeepSeek.html)
+
 ## 2 微服务专栏
 
 [01跟着我学微服务，什么是微服务？微服务有哪些主流解决方案？](https://www.itbeien.cn/tech/microservice/01%E8%B7%9F%E7%9D%80%E6%88%91%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BB%E6%B5%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9F.html)
