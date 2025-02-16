@@ -12,6 +12,7 @@
         <module>spring-ai-lab01</module>
         <module>spring-ai-lab02</module>
         <module>spring-ai-lab03</module>
+        <module>spring-ai-lab05</module>
     </modules>
 
     <repositories>
