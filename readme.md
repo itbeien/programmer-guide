@@ -1,6 +1,6 @@
-**欢迎大家一起讨论学习，加我备注"JAVA"拉你进入Java技术讨论群/备注"聚合支付"拉你进入支付系统讨论群，在技术学习、成长、工作的路上不迷路！加我后不要急，每天下午6点左右通过！营销号免入**
+**欢迎大家一起讨论学习，加我备注"Java/AI"拉你进入Java&AI技术讨论群，备注"聚合支付"拉你进入支付系统讨论群，在技术学习、成长、工作的路上不迷路！加我后不要急，每天下午6点左右通过！营销号免入**
 
-![](https://gitee.com/itbeien/base/raw/master/images/贝恩聊架构Java技术群-new.png)
+![](https://gitee.com/itbeien/base/raw/master/images/贝恩聊架构Java&AI技术群.png)
 
 ## **1 AI专栏**
 
